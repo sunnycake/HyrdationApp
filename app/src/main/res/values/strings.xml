@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HydrationApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="add_glass">Add Glass</string>
+    <string name="reset_count">Reset Count</string>
+</resources>
